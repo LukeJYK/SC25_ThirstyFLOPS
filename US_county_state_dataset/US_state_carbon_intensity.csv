@@ -1,0 +1,52 @@
+state_name,state_abbreviation,state_fips,CI
+Alabama,AL,01,421
+Alaska,AK,02,502
+Arizona,AZ,04,421
+Arkansas,AR,05,485
+California,CA,06,227
+Colorado,CO,08,550
+Connecticut,CT,09,298
+Delaware,DE,10,400
+District of Columbia,DC,11,400
+Florida,FL,12,468
+Georgia,GA,13,421
+Hawaii,HI,15,531
+Idaho,ID,16,306
+Illinois,IL,17,485
+Indiana,IN,18,485
+Iowa,IA,19,485
+Kansas,KS,20,428
+Kentucky,KY,21,400
+Louisiana,LA,22,485
+Maine,ME,23,298
+Maryland,MD,24,400
+Massachusetts,MA,25,298
+Michigan,MI,26,485
+Minnesota,MN,27,485
+Mississippi,MS,28,376
+Missouri,MO,29,616
+Montana,MT,30,404
+Nebraska,NE,31,428
+Nevada,NV,32,439
+New Hampshire,NH,33,298
+New Jersey,NJ,34,400
+New Mexico,NM,35,346
+New York,NY,36,297
+North Carolina,NC,37,302
+North Dakota,ND,38,428
+Ohio,OH,39,400
+Oklahoma,OK,40,428
+Oregon,OR,41,195
+Pennsylvania,PA,42,400
+Rhode Island,RI,44,298
+South Carolina,SC,45,456
+South Dakota,SD,46,540
+Tennessee,TN,47,376
+Texas,TX,48,370
+Utah,UT,49,609
+Vermont,VT,50,298
+Virginia,VA,51,400
+Washington,WA,53,140
+West Virginia,WV,54,400
+Wisconsin,WI,55,485
+Wyoming,WY,56,609
